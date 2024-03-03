@@ -1,0 +1,30 @@
+{
+  "name": "hargabtcv1",
+  "version": "1.2.1",
+  "description": "bot telegram untuk mengetahui harga btc",
+  "main": "main.js",
+  "scripts": {
+    "bot": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harniurzaeni019/hargabtcv1.git"
+  },
+  "keywords": [
+    "BTC",
+    "tea",
+    "tea",
+    "project",
+    "oss",
+    "tea"
+  ],
+  "author": "HAMDAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harniurzaeni019/hargabtcv1/issues"
+  },
+  "homepage": "https://github.com/harniurzaeni019/hargabtcv1#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
